@@ -1,0 +1,8 @@
+/Users/israelpadilla/Desktop/epicodus/UniversityRegistrar/UniversityRegistrarApp/obj/Debug/net6.0/UniversityRegistrar.csproj.AssemblyReference.cache
+/Users/israelpadilla/Desktop/epicodus/UniversityRegistrar/UniversityRegistrarApp/obj/Debug/net6.0/UniversityRegistrar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/israelpadilla/Desktop/epicodus/UniversityRegistrar/UniversityRegistrarApp/obj/Debug/net6.0/UniversityRegistrar.AssemblyInfoInputs.cache
+/Users/israelpadilla/Desktop/epicodus/UniversityRegistrar/UniversityRegistrarApp/obj/Debug/net6.0/UniversityRegistrar.AssemblyInfo.cs
+/Users/israelpadilla/Desktop/epicodus/UniversityRegistrar/UniversityRegistrarApp/obj/Debug/net6.0/UniversityRegistrar.csproj.CoreCompileInputs.cache
+/Users/israelpadilla/Desktop/epicodus/UniversityRegistrar/UniversityRegistrarApp/obj/Debug/net6.0/UniversityRegistrar.MvcApplicationPartsAssemblyInfo.cache
+/Users/israelpadilla/Desktop/epicodus/UniversityRegistrar/UniversityRegistrarApp/obj/Debug/net6.0/UniversityRegistrar.RazorAssemblyInfo.cache
+/Users/israelpadilla/Desktop/epicodus/UniversityRegistrar/UniversityRegistrarApp/obj/Debug/net6.0/UniversityRegistrar.RazorAssemblyInfo.cs
